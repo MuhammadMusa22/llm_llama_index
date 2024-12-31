@@ -1,0 +1,9 @@
+llama-index==0.10.19
+llama-index-core==0.10.19
+sentence-transformers
+torch
+peft
+optimum
+bitsandbytes
+transformers
+pandas
