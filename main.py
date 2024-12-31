@@ -7,7 +7,7 @@ from query_handler import retrieve_context, use_hosted_llm
 # Configuration
 EXCEL_FILE = "test.xlsx"
 PERSIST_DIR = "student_data_index"
-HF_API_TOKEN = "input_hour_hugging_face_token"
+HF_API_TOKEN = "input_your_hugging_face_token"
 
 # Initialize FastAPI app
 app = FastAPI()
